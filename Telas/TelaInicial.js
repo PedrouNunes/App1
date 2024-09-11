@@ -5,7 +5,7 @@ export default function TelaInicial({ navigation, route }) {
 
   return (
     <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center', backgroundColor: 'white'}}>
-       <Text style={{ fontWeight: 'bold', fontSize: 20, color: 'red', marginBottom: 20, marginLeft: 15 , textAlign: 'center' }}>
+       <Text style={{ fontWeight: 'bold', fontSize: 20, color: 'black', marginBottom: 20, marginLeft: 15 , textAlign: 'center' }}>
         Bem-vindo ao App IAR onde facilitamos sua vida.
       </Text>
       <Image
